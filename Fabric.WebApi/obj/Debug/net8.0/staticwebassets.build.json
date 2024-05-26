@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vWJf9LIyZ9yhpkHdi8YKAUv01PgcrLpZEGoxGH36MGk=",
+  "Source": "Fabric.WebApi",
+  "BasePath": "_content/Fabric.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

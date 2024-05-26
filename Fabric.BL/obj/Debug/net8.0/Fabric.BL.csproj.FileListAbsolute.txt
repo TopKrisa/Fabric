@@ -1,0 +1,17 @@
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\bin\Debug\net8.0\Fabric.BL.deps.json
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\bin\Debug\net8.0\Fabric.BL.dll
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\bin\Debug\net8.0\Fabric.BL.pdb
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\bin\Debug\net8.0\Fabric.DAL.Abstractions.dll
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\bin\Debug\net8.0\Fabric.DAL.dll
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\bin\Debug\net8.0\Fabric.DAL.Abstractions.pdb
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\bin\Debug\net8.0\Fabric.DAL.pdb
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\Fabric.BL.csproj.AssemblyReference.cache
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\Fabric.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\Fabric.BL.AssemblyInfoInputs.cache
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\Fabric.BL.AssemblyInfo.cs
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\Fabric.BL.csproj.CoreCompileInputs.cache
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\Fabric.BL.csproj.Up2Date
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\Fabric.BL.dll
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\refint\Fabric.BL.dll
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\Fabric.BL.pdb
+C:\Users\pryan\RiderProjects\Fabric\Fabric.BL\obj\Debug\net8.0\ref\Fabric.BL.dll
